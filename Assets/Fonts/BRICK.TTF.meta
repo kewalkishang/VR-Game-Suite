@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: e1641e82b4000e94d87046fa8022f1f6
+timeCreated: 1510767568
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Bricks
+  fontNames:
+  - Bricks
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: c51f047bc04a03545b9565f5571bdcea, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

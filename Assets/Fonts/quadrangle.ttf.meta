@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: bcd8974ae0e0f58409c9216ff2187cbb
+timeCreated: 1510767567
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Quadrangle
+  fontNames:
+  - Quadrangle
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

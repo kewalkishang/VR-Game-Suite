@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: a1f59a834da158847abc5a2762edccaa
+timeCreated: 1510767567
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Zombie Holocaust
+  fontNames:
+  - Zombie Holocaust
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
